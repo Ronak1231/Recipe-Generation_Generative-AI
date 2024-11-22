@@ -1,9 +1,9 @@
 
-# ⭐Recipe Generator Application
+# 😋🍽️Recipe Generator Application
 
 A Streamlit-based web application for generating recipes, tracking history, and providing personalized recipe recommendations. Users can filter recipes based on cuisine, diet, cooking time, and ingredients. The app also includes secure user authentication and history tracking features.
 
-## Features
+## ✨Features
 
 - **User Authentication**: Register and log in with secure password hashing.
 - **Recipe Filters**: Search recipes by cuisine, diet, cooking time, and ingredients.
@@ -11,7 +11,7 @@ A Streamlit-based web application for generating recipes, tracking history, and 
 - **Recipe Details**: View ingredients, instructions, and a link to the original recipe.
 - **History Tracking**: Save and access your recipe history.
 
-## Dataset
+## 📊Dataset
 
 The application uses a dataset named `updated_food_dataset.csv`, containing preprocessed recipe data, including details such as:
 
@@ -25,11 +25,11 @@ The application uses a dataset named `updated_food_dataset.csv`, containing prep
 
 ---
 
-## Installation
+## ⬇️Installation
 
 Follow the steps below to set up and run the application locally:
 
-### Prerequisites
+### 📒Prerequisites
 
 - Python 3.8 or higher
 - `pip` for Python package management
@@ -65,7 +65,7 @@ This step creates two tables: `users` for user credentials and `recipe_history` 
 
 ---
 
-## Usage
+## 👨‍💻Usage
 
 1. Start the Streamlit application:
 
