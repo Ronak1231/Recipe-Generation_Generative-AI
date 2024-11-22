@@ -84,7 +84,7 @@ This step creates two tables: `users` for user credentials and `recipe_history` 
 
 ---
 
-## File Structure
+## 🏗️File Structure
 
 ```
 recipe-generator-app/
@@ -97,7 +97,7 @@ recipe-generator-app/
 
 ---
 
-## Dependencies
+## 🔗Dependencies
 
 - `streamlit` (for the user interface)
 - `pandas` (for data handling)
@@ -113,7 +113,7 @@ pip install streamlit pandas
 
 ---
 
-## Author
+## ✒️Author
 
 Ronak Bansal  
 
