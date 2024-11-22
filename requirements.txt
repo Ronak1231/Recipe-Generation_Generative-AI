@@ -1,0 +1,6 @@
+
+streamlit==1.24.0
+pandas==2.1.1
+sqlite3==0.0.1  # Included as part of Python's standard library but added here for completeness
+hashlib  # Part of Python's standard library; no installation required
+datetime  # Part of Python's standard library; no installation required
