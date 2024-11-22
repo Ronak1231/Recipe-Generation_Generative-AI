@@ -1,5 +1,5 @@
 
-# Recipe Generator Application
+# ⭐Recipe Generator Application
 
 A Streamlit-based web application for generating recipes, tracking history, and providing personalized recipe recommendations. Users can filter recipes based on cuisine, diet, cooking time, and ingredients. The app also includes secure user authentication and history tracking features.
 
@@ -117,4 +117,17 @@ pip install streamlit pandas
 
 Ronak Bansal  
 
-Feel free to raise an issue or contribute to the project!
+---
+
+## 🙌 Contributing  
+Feel free to fork this repository, make improvements, and submit a pull request.  
+
+---
+
+## 🐛 Troubleshooting  
+If you encounter issues, please create an issue in this repository.  
+
+---
+
+## 📧 Contact  
+For inquiries or support, contact [ronakbansal12345@gmail.com].  
