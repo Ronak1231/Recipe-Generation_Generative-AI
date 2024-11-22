@@ -113,10 +113,6 @@ pip install streamlit pandas
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Author
 
 Ronak Bansal  
